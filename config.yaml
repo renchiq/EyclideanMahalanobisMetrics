@@ -1,0 +1,81 @@
+0:
+- !!python/tuple
+  - 257
+  - 52
+  - 263
+  - 60
+  - 393
+  - 224
+  - 400
+  - 228
+- !!python/tuple
+  - 73
+  - 93
+  - 92
+- Ocean
+1:
+- !!python/tuple
+  - 775
+  - 168
+  - 780
+  - 173
+- !!python/tuple
+  - 68
+  - 88
+  - 87
+- Bay
+2:
+- !!python/tuple
+  - 998
+  - 354
+  - 1002
+  - 358
+- !!python/tuple
+  - 43
+  - 66
+  - 72
+- River
+3:
+- !!python/tuple
+  - 333
+  - 519
+  - 337
+  - 523
+- !!python/tuple
+  - 198
+  - 157
+  - 129
+- Sand
+4:
+- !!python/tuple
+  - 567
+  - 444
+  - 573
+  - 450
+- !!python/tuple
+  - 93
+  - 75
+  - 76
+- Ground
+5:
+- !!python/tuple
+  - 1276
+  - 368
+  - 1281
+  - 373
+- !!python/tuple
+  - 43
+  - 57
+  - 65
+- Forest
+6:
+- !!python/tuple
+  - 1444
+  - 218
+  - 1450
+  - 222
+- !!python/tuple
+  - 65
+  - 63
+  - 70
+- Rare Forest
